@@ -4,7 +4,7 @@
 
 A premium, touch-friendly cake customization application designed for in-store iPad use. Built with React and Tailwind CSS, featuring a luxurious interface that guides customers through creating their perfect custom cake.
 
-![Cake Customizer Preview](https://via.placeholder.com/800x400/3D2914/F5F5DC?text=Artisan+Confectionery+App)
+![Cake Customizer Preview]([https://via.placeholder.com/800x400/3D2914/F5F5DC?text=Artisan+Confectionery+App](https://github.com/eyad6789/Customizer-App/blob/main/landig%20page.png))
 
 ## ✨ Features
 
